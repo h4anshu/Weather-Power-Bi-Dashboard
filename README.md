@@ -25,6 +25,3 @@ This service provides hyper-local, real-time weather data as well as a 7-day for
 
 • Business Impact & Insights Marketing Optimization: Travel agencies can use this dashboard to identify key selling points for different demographics (e.g., child-friendly resorts or expert terrain). Strategic Expansion: Resort developers can spot underdeveloped regions with high potential. Vacation Planning: Tourists can plan trips based on slope availability, elevation, and terrain difficulty. Regional Analysis: Governments and tourism bodies can analyze competitiveness by region.
 
-**Screenshots:**
-![Alt text].(https://github.com/h4anshu/Weather-Power-Bi-Dashboard/blob/main/weather_dashboard_ui.png).
-![Dashboard Preview].(https://github.com/h4anshu/Weather-Power-Bi-Dashboard/blob/main/weather_dashboard_ui.png).

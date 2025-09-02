@@ -23,5 +23,7 @@ This service provides hyper-local, real-time weather data as well as a 7-day for
 
 . The layout balances simplicity with detail. A hero panel highlights current conditions with temperature, weather icons, and descriptive text (e.g., “Partly Cloudy”), supported by cards for humidity, wind speed, sunrise, and sunset. The 7-day forecast is presented in a clean, grid-style view with daily icons, max/min temperatures, and intuitive bar graphics to represent temperature ranges.
 
-. A modern design approach ties everything together. The dashboard uses transparent, high-quality SVG icons that blend perfectly with its dark theme, while glassmorphism-inspired panels with semi-transparent layers and rounded corners give it a sleek, professional look that’s both functional and visually appealing.
 • Business Impact & Insights Marketing Optimization: Travel agencies can use this dashboard to identify key selling points for different demographics (e.g., child-friendly resorts or expert terrain). Strategic Expansion: Resort developers can spot underdeveloped regions with high potential. Vacation Planning: Tourists can plan trips based on slope availability, elevation, and terrain difficulty. Regional Analysis: Governments and tourism bodies can analyze competitiveness by region.
+
+**Screenshots:**
+![Dashboard Preview].(https://github.com/h4anshu/Weather-Power-Bi-Dashboard/blob/main/weather_dashboard_ui.png).
